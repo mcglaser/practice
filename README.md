@@ -1,2 +1,2 @@
 # practice
-Practice Projects
+Practice Projects for learn.co
